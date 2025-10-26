@@ -1,0 +1,1 @@
+// Original content of MainActivity.java should be here.
